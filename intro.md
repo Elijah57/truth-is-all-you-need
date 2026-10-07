@@ -1,0 +1,5 @@
+Most of us were taught that a battery pushes electrons around a circuit. I believed it too, and I used it as a picture of how truth moves a believer: the word of God as a force that drives us. Then I looked closer at what electromotive force (EMF) actually is, and I found I had it backwards.
+
+EMF is not the push. It is the energy a battery spends lifting charge uphill inside itself. That work creates a potential difference, the potential difference creates an electric field, and the field is what pushes the electrons through the wire. The source works on the inside first, and the movement follows from what it creates.
+
+Scripture describes the same pattern. Truth is not forced on a person from outside. It is engrafted (James 1:21), it renews the mind through meditation, and the renewed mind governs a whole life (Proverbs 4:23). This paper walks through the physics step by step, with the formulas, and then lays the believer's story beside it. You don't need a physics background to follow it, only curiosity about how a source moves things without touching them.
